@@ -1,41 +1,77 @@
-# Hi there, I'm Rizvee Hasan (Ssiyam) 👋
-### Full-Stack Developer | React & Next.js Specialist
+# Hi there, I'm Esthiyak Ahmmed Siyam 👋 (Ssiyam0123)
+### Full-Stack Developer & Frontend Engineer | Next.js & MERN Specialist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangladesh-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### 💫 About Me:
-- 🚀 I'm currently working on building premium full-stack web applications using **Next.js**, **React**, and **Tailwind CSS**.
-- 🛠️ Currently developing a full-featured **E-commerce Platform** and dynamic web architectures.
-- ⚡ I love crafting beautiful, responsive UI/UX and optimizing performance using modern state management like **Zustand** and data fetching with **React Query**.
-- 💬 Ask me about **React, Next.js, Node.js, and Frontend Engineering**.
-- 📫 How to reach me: **rizveehasan@gmail.com**
+### 💫 About Me
+I am a passionate **Full-Stack Developer** specializing in building premium, high-performance web applications. I love crafting seamless user interfaces with modern frontend technologies like **Next.js** and **React**, backed by robust server-side architectures. 
+
+- 🚀 Currently focusing on building advanced e-commerce ecosystems and personal brand portfolios.
+- 🛠️ Expert in state management (**Zustand**) and efficient data synchronization (**TanStack Query**).
+- 🎨 Committed to clean code, responsive layout systems (using Tailwind CSS), and smooth micro-interactions.
+- 🎯 Open for freelance opportunities, open-source collaborations, and full-time developer roles.
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React 19, Next.js (App Router), HTML5, CSS3, Tailwind CSS v4, Framer Motion |
-| **Backend & Database** | Node.js, Express, MongoDB, RESTful APIs, WebSockets (Socket.io) |
-| **State & Query** | Zustand, React Query (TanStack Query), React Hook Form |
-| **Tools & Version Control** | Git, GitHub, VS Code, Postman, npm/yarn |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚡ Frontend & UI</h4>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20v4-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔌 Backend & Databases</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats:
+### 📂 Best Projects
+
+#### 🛍️ 1. [Clothing E-Commerce Platform](https://github.com/Ssiyam0123/clothing-e-commerce)
+*A premium full-stack clothing e-commerce store built with Next.js 16 and Node.js backend.*
+- **Frontend Tech:** Next.js 16 (App Router), Tailwind CSS v4, Zustand, TanStack Query, Radix UI.
+- **Key Features:**
+  - Modern Product Grid with advanced sorting, category filters, and search functionalities.
+  - Interactive Shopping Cart and Checkout system using robust React forms.
+  - Dynamic user experience driven by Framer Motion micro-animations.
+  - Real-time updates using WebSockets for order tracking and inventory alerts.
+
+#### 💼 2. [Professional Portfolio App](https://github.com/Ssiyam0123/portfolio-ex-2)
+*A custom, responsive portfolio website featuring a backend dashboard to manage projects and profiles dynamically.*
+- **Frontend Tech:** React, CSS3 Grid/Flexbox, dynamic navigation systems.
+- **Backend Tech:** Node.js, Express, MongoDB (dynamic profile data management).
+- **Key Features:**
+  - Dynamic database-driven project showcases.
+  - Smooth custom transitions and responsive layouts for mobile and desktop screens.
+  - Clean API structure for profile and metadata updates.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssiyam0123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ssiyam0123's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssiyam0123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssiyam0123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Esthiyak's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssiyam0123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
@@ -44,8 +80,6 @@
 
 ---
 
-### 🤝 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:rizveehasan@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+### 📬 Connect With Me
+- **LinkedIn:** [Esthiyak Ahmmed Siyam](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(LinkedIn লিংকটি বসিয়ে দিন)*
+- **Email:** `your-email@example.com` *(আপনার ইমেইলটি বসিয়ে দিন)*
