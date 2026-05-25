@@ -81,5 +81,5 @@ I am a passionate **Full-Stack Developer** specializing in building premium, hig
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [Esthiyak Ahmmed Siyam](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) *(LinkedIn লিংকটি বসিয়ে দিন)*
-- **Email:** `your-email@example.com` *(আপনার ইমেইলটি বসিয়ে দিন)*
+- **LinkedIn:** [Esthiyak Ahmmed Siyam](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- **Email:** `ssiyam563@gmail.com`
