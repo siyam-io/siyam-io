@@ -25,7 +25,7 @@ I'm a full stack software engineer based in **Dhaka, Bangladesh**. I build appli
 
 | Area | Technologies |
 | --- | --- |
-| Languages | JavaScript, C# |
+| Languages | JavaScript, C++ |
 | Frontend | React, Next.js, Tailwind CSS |
 | Mobile | React Native, Expo |
 | Backend | Node.js, Express.js, REST APIs, Socket.io |
